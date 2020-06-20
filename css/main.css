@@ -187,6 +187,10 @@ button {
   text-decoration: none;
 }
 
+.trailer-watch-text {
+  text-decoration: none;
+}
+
 .film-trailer {
   display: flex;
   flex-direction: column;
